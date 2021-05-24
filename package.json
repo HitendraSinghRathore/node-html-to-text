@@ -34,7 +34,6 @@
     "cover": "nyc --reporter=lcov --reporter=text-summary npm test",
     "example": "node ./example/html-to-text.js",
     "lint": "eslint .",
-    "prepublishOnly": "npm run lint && npm test",
     "test": "mocha"
   },
   "dependencies": {

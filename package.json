@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "deepmerge": "^4.2.2",
+    "domhandler": "^4.2.0",
     "he": "^1.2.0",
     "htmlparser2": "^6.1.0",
     "minimist": "^1.2.5"
